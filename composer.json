@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Laradic-admin\\Users\\": "src/"
+            "LaradicAdmin\\Users\\": "src/"
         }
     },
     "minimum-stability": "stable"
